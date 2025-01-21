@@ -5,7 +5,7 @@ A portal for international students to find companies sponsoring OPT/CPT in the 
 ## Features
 - Searchable database of companies.
 - Filters for location, industry, and sponsorship status.
-- User-contributed data and reviews.
+- User-contributed data and reviews..
 
 ## Tech Stack
 - **Frontend**: HTML, CSS, JavaScript
